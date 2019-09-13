@@ -1,4 +1,4 @@
-# firstproject
+# VueJS wikipedia search with Autocomplete 
 
 ## Project setup
 ```
