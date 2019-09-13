@@ -1,0 +1,23 @@
+{
+    "queries":[
+        { "Name": "Why is there a leap day?" },
+        { "Name": "Why is the sky blue?" },
+        { "Name": "Why do we dream?" },
+        { "Name": "Why are flags at half staff today?" },
+        { "Name": "Can dogs eat banana?" },
+        { "Name": "Can you see me?" },
+        { "Name": "When is Mother’s day?" },
+        { "Name": "Who let the dog out?" },
+        { "Name": "Who should I start?" },
+        { "Name": "When is labor day Kong?" },
+        { "Name": "Where to invade next?" },
+        { "Name": "How many weeks in a year?" },
+        { "Name": "How many ounces in a gallon?" },
+        { "Name": "What do you mean?" },
+        { "Name": "What does smh mean?" },
+        { "Name": "Which celebrity do i look like?" },
+        { "Name": "Which pokemon are you?" },
+        { "Name": "Which disney princess are you?" },
+        { "Name": "Which side is your appendix on?" }
+    ]
+}
